@@ -1,0 +1,5 @@
+# Always use LF for Jupyter Notebooks
+*.ipynb text eol=lf
+
+# Use system default for other text files
+* text=auto
